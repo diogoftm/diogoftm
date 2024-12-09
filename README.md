@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently pursuing my Master's in Cybersecurity at the University of Aveiro. Alongside, I’m exploring the world of Quantum Key Distribution (QKD) through a research scholarship where I'm mainly focusing on Secure Multiparty Computation and in the developement of security solutions for QKD Networks. 
+My name is Diogo Matos and I'm currently pursuing my Master's in Cybersecurity at the [University of Aveiro](https://www.ua.pt/en/). Alongside, I’m a researcher at [Instituto de Telecomunicações](https://www.it.pt/) exploring the world of Quantum Key Distribution (QKD) where I'm focusing on the developement of cybersecurity-related solutions, mainly secure computations and communications services, for QKD Networks. 
 
 Everything technology and sports enthusiast.
 
